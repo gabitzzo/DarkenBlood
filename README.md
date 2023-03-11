@@ -2,7 +2,7 @@
 
 **Links**
 
-<a href="https://www.linkedin.com/in/abhisheknaiidu/"><img alt="Gaby LinkedIN" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
+<a href="https://www.linkedin.com/in/gabriel-johann-rojas"><img alt="Gaby Linkedin" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=darkenblood.darkenblood)
 
