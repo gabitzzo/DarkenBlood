@@ -9,5 +9,3 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=darkenblood&show_icons=true&locale=en" alt="darkenblood"></p>
-
-&nbsp; <br> [![Spotify](https://DarkenBlood.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31nit6xujtbirrwsk2ytjuwnvkmi)
