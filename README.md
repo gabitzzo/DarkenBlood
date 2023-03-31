@@ -3,6 +3,8 @@
 **Links**
 
 <a href="https://www.linkedin.com/in/gabriel-johann-rojas"><img alt="Gaby Linkedin" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
+<a href="https://iconscout.com/icons/github" target="_blank">Github Icon</a> by <a href="https://iconscout.com/contributors/unicons" target="_blank">Unicons Font</a></a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=darkenblood.darkenblood)
 
