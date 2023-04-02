@@ -10,8 +10,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=darkenblood.darkenblood)
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-
+<a href="https://darkenblood.github.io/Portafolio/">
+    <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+</a>
 
 ---
 
@@ -53,5 +54,4 @@
 </div>
 
 ---
-
-<span align="center"><img src="https://github-readme-stats.vercel.app/api?username=darkenblood&show_icons=true&locale=en" alt="darkenblood"></span>
+<span aling='center'>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DarkenBlood&theme=highcontrast&hide_border=true&border_radius=50&locale=es&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)</span>
