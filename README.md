@@ -31,11 +31,8 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" width="40" alt="HTML logo">&nbsp
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" width="40" alt="CSS3 logo">&nbsp
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript">&nbsp
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL">&nbsp
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40" alt="Git">&nbsp
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="40" height="40" alt="Git">&nbsp
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" width="40" height="40"alt="Git">&nbsp
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" alt="Git">&nbsp
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" width="40" height="40"alt="MySQL">&nbsp
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" alt="Pyhton">&nbsp
       </div>
     <h3>🧠 Tecnologías:</h3>
     <div style="display: flex; justify-content: center; align-items: center;">
@@ -54,4 +51,6 @@
 </div>
 
 ---
-<span aling='center'>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DarkenBlood&theme=highcontrast&hide_border=true&border_radius=50&locale=es&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)</span>
+
+| <span aling='center'>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DarkenBlood&theme=highcontrast&hide_border=true&border_radius=50&locale=es&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)</span> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkenBlood&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
